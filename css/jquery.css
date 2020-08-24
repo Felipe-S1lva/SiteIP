@@ -1,0 +1,7 @@
+@media only screen and (max-width: 777px){
+    .ft-contact-info {
+        display: inline-block;
+        margin-bottom: 16px;
+        position: relative;
+    }
+}
